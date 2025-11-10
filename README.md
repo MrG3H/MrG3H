@@ -18,7 +18,7 @@
     <img 
       align="center" 
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+      src="https://github-readme-stats.vercel.app/api?username=MrG3H&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
       alt="Minhas Estatísticas do GitHub"
     />
   </a>
@@ -27,7 +27,7 @@
     <img 
       align="center" 
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=8&theme=dracula" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3H&layout=compact&langs_count=8&theme=dracula" 
       alt="Minhas Linguagens Mais Usadas"
     />
   </a>
@@ -56,6 +56,6 @@
 </p>
 
   <a href="mailto:geraldo_cezar@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail">
   </a>
   </p>
