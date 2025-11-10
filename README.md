@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre Mim
 
 * 🔭 Atualmente estou trabalhando em... [https://github.com/MrG3H/Bot-DTG-Discord]
-* 🌱 Estou aprendendo... [JavaScript]
+* 🌱 Estou aprendendo... [JavaScript, Python]
 
 ---
 
