@@ -26,7 +26,11 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrG3H&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3H&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Langs" />
+  <br/> <br/>
+
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrG3H&theme=dracula" alt="Linguagens Mais Usadas" />
+  </a>
 </div>
 
 ---
