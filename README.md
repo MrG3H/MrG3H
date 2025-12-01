@@ -1,7 +1,7 @@
 ### 👋 Olá! Bem-vindo(a) ao meu perfil!
 
 <p>
-  Meu nome é Geraldo e sou Analista em Infraestrutura, Desenvolvedor .
+  Meu nome é Geraldo e sou Analista em Infraestrutura e Desenvolvedor.
 </p>
 
 ### 👨‍💻 Sobre Mim
@@ -11,26 +11,23 @@
 
 ---
 
-### 🚀 Estatísticas e Linguagens
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      align="center"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=MrG3H&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
-      alt="Minhas Estatísticas do GitHub"
-    />
+### 🏆 Conquistas e Estatísticas
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=MrG3H&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="MrG3H Trophies" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrG3H&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      align="center" 
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3H&layout=compact&langs_count=8&theme=dracula" 
-      alt="Minhas Linguagens Mais Usadas"
-    />
-  </a>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrG3H&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
@@ -54,7 +51,8 @@
   Você pode me encontrar nestas plataformas:
 </p>
 
+<p>
   <a href="mailto:geraldo_cezar@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Hotmail">
   </a>
-  </p>
+</p>
